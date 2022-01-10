@@ -15,8 +15,8 @@ driver.get(	"https://www.marvel.com/signin?referer=https%3A%2F%2Fwww.marvel.com%
 
 #Detecting items:
 browser = driver
-username ="fabian_kpk858@yahoo.es"
-password ="FaTaMeCa.7!"
+username ="email"
+password ="contrasena"
 
 
 WebDriverWait(driver, 20).until(
